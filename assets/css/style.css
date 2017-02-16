@@ -1,0 +1,38 @@
+.view {
+    height: 100%;
+}
+
+.view {
+    background:url(../img/bg-img.jpeg)no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.head{
+    text-align: center;
+}
+nav,ul,li{
+    list-style: none;
+    display: inline-block;
+    font-size: 1.1em;
+    padding-left: 1.5em;
+    margin-left: 3em;
+    }
+.position{
+    padding-left: 300px;
+}
+.main{
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 400px;
+    background-color: gainsboro;
+    padding-bottom: 2em;
+}
+.h4-responsive{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    
+}
